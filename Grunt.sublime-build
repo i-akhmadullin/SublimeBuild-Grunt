@@ -1,0 +1,4 @@
+{
+	"cmd": ["grunt.cmd", "--no-color", "watcher"],
+	"selector": ["source.js", "source.less", "source.json"]
+}
