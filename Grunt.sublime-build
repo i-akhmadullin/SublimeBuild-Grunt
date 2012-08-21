@@ -1,4 +1,5 @@
 {
 	"cmd": ["grunt.cmd", "--no-color", "watcher"],
-	"selector": ["source.js", "source.less", "source.json"]
+	"selector": ["source.js", "source.less", "source.json"],
+	"working_dir": "${file_path}/build"
 }
